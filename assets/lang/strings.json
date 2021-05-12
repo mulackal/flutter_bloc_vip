@@ -1,0 +1,7 @@
+{
+  "title": "Flutter Template",
+  "no_network": "No Network",
+  "server_error": "Could not connect to Server",
+  "no_datafound": "No data Found",
+  "inr": "₹"
+}
